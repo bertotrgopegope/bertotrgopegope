@@ -31,7 +31,6 @@
 <br>
 
 <!-- Statistik GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=bertotrgopegope&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=bertotrgopegope&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
