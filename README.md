@@ -30,7 +30,5 @@
 
 <br>
 
-<!-- Statistik GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=bertotrgopegope&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
 
