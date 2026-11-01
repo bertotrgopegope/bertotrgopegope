@@ -31,4 +31,6 @@
 <br>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bertotrgopegope/assets/main/mata.gif" width="250" alt="Profile GIF">
+</p>
