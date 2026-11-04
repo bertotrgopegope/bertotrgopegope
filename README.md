@@ -34,3 +34,23 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/bertotrgopegope/assets/main/mata.gif" width="250" alt="Profile GIF">
 </p>
+<!-- Kustom SVG Badges -->
+<div align="center">
+
+  <!-- Achievement 1: Hacker -->
+  <img src="https://img.shields.io/badge/&#xF133;-Hacker_Elite-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF00" />
+  
+  <!-- Achievement 2: OSINT -->
+  <img src="https://img.shields.io/badge/&#xF002;-OSINT_Master-1E90FF?style=for-the-badge&logo=searxng&logoColor=white" />
+  
+  <!-- Achievement 3: Coder -->
+  <img src="https://ghchart.rshah.org/00FFFF/bertotrgopegope" alt="GitHub Contribution Chart" width="100%" />
+
+</div>
+<!--  (Aktivitas Kontribusi) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bertotrgopegope&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+<br>
+
+<!-- GitHub Streak (Runtutan Commit Harian) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bertotrgopegope&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
